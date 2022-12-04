@@ -39,6 +39,6 @@ Prototyping
 
 Links on how we worked on the design process below:
 
-[https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=5PTYu4cXvGFMpLbQ-0](UI file) and UX file.
+[UI FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=5PTYu4cXvGFMpLbQ-0) and UX file.
 
 
