@@ -5,7 +5,7 @@ A platform that operates like a movie streaming platform but for short movies cr
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [The Design Team](#The Design Team)
+2. [The Design Team](#TheDesign Team)
 3. [Usage](#how-to-use)
 4. [Resources](#Resources)
 5. [Images](#images)
