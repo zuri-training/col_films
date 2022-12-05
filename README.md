@@ -6,11 +6,12 @@ A platform that operates like a movie streaming platform but for short movies cr
 
 1. [Introduction](#introduction)
 2. [The Design Team](#The-Design-Team)
-3. [Design Choice of tool](#Desig-nChoice-of-tool)
-4. [Backend functionality](#Backend-Functionality)
-5. [Resources](#Resources)
-6. [Images](#images)
-7. [Contributors](#contributors)
+3. [Design Choice of tool](#Desig-Choice-of-tool)
+4. [Frontend Statics](#Frontend-Statics)
+5. [Backend functionality](#Backend-Functionality)
+6. [Resources](#Resources)
+7. [Images](#images)
+8. [Contributors](#contributors)
 
 ## Introduction
 
@@ -45,6 +46,15 @@ The design team chose figma because of its collaborative nature,making it easy f
 1. Figma
 2. Figjam
 3. Google doc
+
+## Frontend-Statics
+
+1. Users Interfaces 
+2. Homepage
+3. Login Page 
+4. Registration Page 
+5. Profile Page
+
 
 ## Backend-Functionality
 
