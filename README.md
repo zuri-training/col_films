@@ -37,6 +37,8 @@ The designers in the team conducted user-qualitative and quantitative research i
 9.  User Surveys and research
 10. Prototyping
 
+The design team chose figma because of its collaborative nature,making it easy for all designers to work together,make corrections, comment and track the status of the project.figjam is also similar to figma, it makes the design process easy for designers
+
 ## Resources
 
 Links on how we worked on the design process below:
