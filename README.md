@@ -6,8 +6,8 @@ A platform that operates like a movie streaming platform but for short movies cr
 
 1. [Introduction](#introduction)
 2. [The Design Team](#The-Design-Team)
-3. [Design Choice of tool](#DesignChoiceoftool)
-4. [Backend functionality](#BackendFunctionality)
+3. [Design Choice of tool](#Desig-nChoice-of-tool)
+4. [Backend functionality](#Backend-Functionality)
 5. [Resources](#Resources)
 6. [Images](#images)
 7. [Contributors](#contributors)
@@ -40,13 +40,13 @@ The designers in the team conducted user-qualitative and quantitative research i
 
 The design team chose figma because of its collaborative nature,making it easy for all designers to work together,make corrections, comment and track the status of the project.figjam is also similar to figma, it makes the design process easy for designers
 
-## Design Choice of tool
+## Design-Choice-of-tool
 
 1. Figma
 2. Figjam
 3. Google doc
 
-## Backend Functionality
+## Backend-Functionality
 
 For backend functionality, Python is the language of choice with the Django REST API framework. The web app is expected to have three categories of users namely;
 
