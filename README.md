@@ -15,7 +15,7 @@ A platform that operates like a movie streaming platform but for short movies cr
 
 The goal assigned to my team was to develop a streaming service specifically for university students.
 
-According to the documentation, we understand we are building a site where only students may publish movies with a maximum runtime of 15 minutes. Authenticated users can view as many videos as they like and engage in social activities.  
+According to the [documentation](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=p6X0S0kmGhd4c4ds-0), we understand we are building a site where only students may publish movies with a maximum runtime of 15 minutes. Authenticated users can view as many videos as they like and engage in social activities.  
 
 But unauthenticated individuals (unregistered) can only explore a short selection of films before being asked to sign up (likes, comments, etc). Videos may also be bookmarked and downloaded by authenticated users.
 
@@ -37,8 +37,13 @@ Creation of user flows
 User Surveys and research
 Prototyping
 
+## Resources
+
 Links on how we worked on the design process below:
 
-[UI FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=5PTYu4cXvGFMpLbQ-0) and UX file.
+[UI FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=5PTYu4cXvGFMpLbQ-0)
+[Ux FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=p6X0S0kmGhd4c4ds-0)
+[Mood Board](https://www.figma.com/file/h7SryNbMCMmXpWeLtKpca8/Untitled?node-id=0%3A1&t=wdaN5i7k86iNB1bt-1)
+
 
 
