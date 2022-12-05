@@ -39,6 +39,17 @@ The designers in the team conducted user-qualitative and quantitative research i
 
 The design team chose figma because of its collaborative nature,making it easy for all designers to work together,make corrections, comment and track the status of the project.figjam is also similar to figma, it makes the design process easy for designers
 
+## Backend Functionality
+
+For backend functionality, Python is the language of choice with the Django REST API framework. The web app is expected to have three categories of users namely;
+
+1. Visitors
+2. Users
+3. Students
+
+Visitors will get to view basic information about the webapp while being prompted to register as either student or user then authenticated to perform other functions like posting a short video for students(student specific function), giving comments on a post, save video, download video and assign a token to every user to secure their account from being hacked or access users password.
+
+
 ## Resources
 
 Links on how we worked on the design process below:
