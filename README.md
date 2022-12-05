@@ -43,9 +43,9 @@ The design team chose figma because of its collaborative nature,making it easy f
 
 Links on how we worked on the design process below:
 
-[UI FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=5PTYu4cXvGFMpLbQ-0)
-[Ux FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=p6X0S0kmGhd4c4ds-0)
-[Mood Board](https://www.figma.com/file/h7SryNbMCMmXpWeLtKpca8/Untitled?node-id=0%3A1&t=wdaN5i7k86iNB1bt-1)
+1. [UI FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=5PTYu4cXvGFMpLbQ-0)
+2. [Ux FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=p6X0S0kmGhd4c4ds-0)
+3. [Mood Board](https://www.figma.com/file/h7SryNbMCMmXpWeLtKpca8/Untitled?node-id=0%3A1&t=wdaN5i7k86iNB1bt-1)
 
 
 
