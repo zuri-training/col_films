@@ -5,7 +5,7 @@ A platform that operates like a movie streaming platform but for short movies cr
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [The Design Team](#TheDesignTeam)
+2. [The Design Team](#The-Design-Team)
 3. [Design Choice of tool](#DesignChoiceoftool)
 4. [Backend functionality](#BackendFunctionality)
 5. [Resources](#Resources)
@@ -23,7 +23,7 @@ But unauthenticated individuals (unregistered) can only explore a short selectio
 We also determined that the service we are developing will only be available to "participating universities in Nigeria"; as we move further along the pipeline, we want to grow it.
 
 
-## The Design Team
+## The-Design-Team
 
 The designers in the team conducted user-qualitative and quantitative research in order to fully comprehend the needs, pain points, and expectations of the majority of users of content management systems. In order to get the best use case for the platform, the design team followed the design process in the order below:
 
