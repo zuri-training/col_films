@@ -26,16 +26,16 @@ We also determined that the service we are developing will only be available to 
 
 The designers in the team conducted user-qualitative and quantitative research in order to fully comprehend the needs, pain points, and expectations of the majority of users of content management systems. In order to get the best use case for the platform, the design team followed the design process in the order below:
 
-Empathy Mapping 
-Pain Points identification
-Idea Prioritization Matrix
-Brainstorming and Ideation
-User Personas creation
-Creating the user stories
-Final Product Feature selection for MVP
-Creation of user flows
-User Surveys and research
-Prototyping
+1.  Empathy Mapping 
+2.  Pain Points identification
+3.  Idea Prioritization Matrix
+4.  Brainstorming and Ideation
+5.  User Personas creation
+6.  Creating the user stories
+7.  Final Product Feature selection for MVP
+8.  Creation of user flows
+9.  User Surveys and research
+10. Prototyping
 
 ## Resources
 
