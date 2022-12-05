@@ -6,7 +6,7 @@ A platform that operates like a movie streaming platform but for short movies cr
 
 1. [Introduction](#introduction)
 2. [The Design Team](#TheDesignTeam)
-3. [Backend functionality](#Backend Functionality)
+3. [Backend functionality](#BackendFunctionality)
 4. [Resources](#Resources)
 5. [Images](#images)
 6. [Contributors](#contributors)
