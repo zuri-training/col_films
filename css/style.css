@@ -8,7 +8,7 @@
     background-color: #0B022D;;
 }
 
-.col_films-status-bar {
+.col_films-status-bar, .col_films-signUp, .signing {
     margin: 0rem 0.8rem;
 }
 
@@ -23,4 +23,8 @@
 
 .col_films-bar {
     text-align-last: right;
+}
+
+.sign-up-hero {
+    margin: initial;
 }
