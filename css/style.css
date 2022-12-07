@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.col_films-bg {
+    background-color: #0B022D;;
+}
+
+.col_films-status-bar {
+    margin: 0rem 0.8rem;
+}
+
+.col_films-date {
+    text-align-last: left;
+    
+}
+
+.col_films-date p {
+    margin: revert;
+}
+
+.col_films-bar {
+    text-align-last: right;
+}
