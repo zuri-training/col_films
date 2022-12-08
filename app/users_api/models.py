@@ -27,7 +27,7 @@ class User(models.Model):
     def __str__(self):
         return self.first_name
 
-class Videos(models.Model):
+class Video(models.Model):
     user = models.ForeignKey(User, on_delete=models.CASCADE)
     title = models.CharField(max_length=400)
     description = models.TextField()
