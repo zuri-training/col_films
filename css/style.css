@@ -5,7 +5,11 @@
 }
 
 .col_films-bg {
-    background-color: #0B022D;;
+    background-color: #0B022D;
+}
+
+.col_films-bg-light {
+    background-color: #342C50;
 }
 
 .col_films-status-bar, .col_films-signUp, .signing {
@@ -31,4 +35,10 @@
 
 .privacy_policy {
     margin-top: 7rem;
+}
+
+.line {
+    border: 1px solid #868686;
+    width: 94%;
+    margin: auto;
 }
