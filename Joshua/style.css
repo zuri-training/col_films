@@ -105,17 +105,16 @@ body{
     gap: 10px;
     margin: auto;
 }
-.footer{
+/* .footer{
     display: flex;
     margin-top: 5px;
     border: 1px solid;
     height: 70px;
-}
-.disfix {
+} */
+/* .disfix {
     display: flex;
-
     margin: 5px;
-}
+} */
 
 .disfix a {
     text-decoration: none;
