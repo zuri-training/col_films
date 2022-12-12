@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@400;500;700;800&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+.container{
+    background-color: #0b022d;
+    width: 390px;
+    height: 844px;
+    padding: 0 13px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    border: 1px none;
+    align-items: center;
+    margin-left: 30px;
+
+}
+
+
+.status-container{
+  min-width: 360px;
+  align-items: center;
+  background-color: rgb(255, 255, 255, 1);
+  display: flex;
+  gap: 5px;
+  height: 24px;
+  justify-content: flex-end;
+  padding: 0 12px;
+  margin-top: 1px;
+}
+
+.cellular{
+    width: 18px;
+    height: 12px;
+    
+    
+    
+}
+.wifi{
+    width: 16px;
+    height: 12px;
+    
+}
+.battery{
+    width: 24px;
+    height: 12px;
+    left: 5px;
+    top: 5px;
+    
+}
+.time{
+color: black;
+position: absolute;
+left: 50px;
+top: 22px;
+line-height: normal;
+font-family: "Inter";
+font-size: 16px;
+font-weight: 400;
+letter-spacing: 0;
+}
+.close{
+    align-self: flex-end;
+    height: 32px;
+    margin-right: 1px;
+    width: 30px;
+    margin-top: 52px;
+    
+
+}
+.loading{
+    width: 128px;
+    height: 128px;
+    margin-top: 159px;   
+}
+.action{
+    min-width: 156px;
+    min-height: 47px;
+    margin-top: 30px;
+    letter-spacing: 0;
+    line-height: 35.2px;
+    font-family: 'Montserrat';
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
