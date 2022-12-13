@@ -12,6 +12,10 @@
     background-color: #342C50;
 }
 
+.notification {
+    background-color: #AEABB9;
+}
+
 .col_films-status-bar, .col_films-signUp, .signing {
     margin: 0rem 0.8rem;
 }
@@ -38,7 +42,58 @@
 }
 
 .line {
-    border: 1px solid #868686;
+    border-bottom: 1px solid #868686;
     width: 94%;
     margin: auto;
 }
+
+/* Settings */
+.settings_head {
+    margin: auto;
+}
+
+.settings_head-links {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    font-size: 20px;
+}
+
+.settings_head-links a {
+    font-weight: 400;
+    color: #D4D4D4;
+    line-height: 2.0;
+}
+
+/*subscription page*/
+.recently-added p {
+    /* margin: revert; */
+    align-self: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/*Footer*/
+
+.footer {
+    box-shadow: 0px 20px 20px 0px #000000B2;
+    border: 1px solid #9D9D9D;
+}
+
+.footer-bg {
+    background-color: #0B022D;
+}
+
+
+
+/*notification*/
+.notification-pops h3 {
+    font-size: large;
+}
+@media (max-width: 426px) {
+    .notification-pops .hero  {
+        padding-left: 1.5rem;
+    }
+}
+
+/*notification*/

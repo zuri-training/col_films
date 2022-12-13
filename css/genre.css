@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@400;500;700;800&display=swap');
+
 *{
     box-sizing: border-box;
     margin: 0;
@@ -17,7 +18,6 @@
 
 }
 
-
 .status-container{
   min-width: 360px;
   align-items: center;
@@ -33,15 +33,14 @@
 .cellular{
     width: 18px;
     height: 12px;
-    
-    
-    
 }
+
 .wifi{
     width: 16px;
     height: 12px;
     
 }
+
 .battery{
     width: 24px;
     height: 12px;
@@ -49,6 +48,7 @@
     top: 5px;
     
 }
+
 .time{
 color: black;
 position: absolute;
@@ -66,6 +66,7 @@ letter-spacing: 0;
     font-size: 20px;
     font-weight: 600;
     width: 290px;
+    text-align: center;
     min-height: 25px;
     letter-spacing: 0;
     line-height: normal;
@@ -75,7 +76,7 @@ letter-spacing: 0;
 
 }
 .genre-choice{
-    width: 215px;
+    /* width: 215px; */
     font: 12px;
     font-family: 'Montserrat';
     font-weight: 400;
@@ -83,8 +84,6 @@ letter-spacing: 0;
     letter-spacing: 0;
     line-height: normal;
     margin-top: 14px;
-    
-    
 }
 .flex-row{
     align-items: flex-start;
