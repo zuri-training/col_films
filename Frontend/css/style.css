@@ -14,7 +14,7 @@
 }
 
 .notification {
-    background-color: #AEABB9;
+    background-color:  #F5F5F5;
 }
 
 .col_films-bg h1 {
@@ -118,3 +118,36 @@
 }
 
 /*notification*/
+.notification h2, .notification h3 {
+    font-family: 'Montserrat', Courier, monospace;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.notification h3 {
+    font-size: 16px;
+}
+
+.notification h4 {
+    font-family: 'Montserrat', Courier, monospace;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* settings style */
+.settings_head, .my-subscription_hero p {
+    font-family: 'Montserrat', Courier, monospace;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.settings a {
+    font-family: 'Montserrat', Courier, monospace;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 2.8rem;
+}
+
+/* my-subscription style */
+
+
