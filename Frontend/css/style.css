@@ -37,9 +37,9 @@
     font-family: 'Inter', Courier, monospace;
 }
 
-.col_films-status-bar, .col_films-signUp, .signing {
+/* .col_films-status-bar, .col_films-signUp, .signing {
     margin: 0rem 0.8rem;
-}
+} */
 
 .col_films-date {
     text-align-last: left;
