@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/*Background color for pages*/
 .col_films-bg {
     background-color: #0B022D;
 }
@@ -14,6 +15,26 @@
 
 .notification {
     background-color: #AEABB9;
+}
+
+.col_films-bg h1 {
+    font-family: 'Montserrat', Courier, monospace;
+}
+
+.col_films-started {
+    width: 75%;
+    background-color: #0D0C0C;
+}
+
+/* responsiveness for both tablet and  */
+@media (min-width: 401px) {
+    .col_films-started {
+        width: auto;
+    }
+}
+
+.col_films-bg p {
+    font-family: 'Inter', Courier, monospace;
 }
 
 .col_films-status-bar, .col_films-signUp, .signing {
