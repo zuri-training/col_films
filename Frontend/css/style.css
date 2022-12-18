@@ -54,12 +54,36 @@
     text-align-last: right;
 }
 
-.sign-up-hero {
+/* .sign-up-hero {
     margin: initial;
+} */
+
+/* Sign-up */
+.sign-up button, .sign-up label {
+    font-family: 'Crimson Pro', Courier, monospace;
+    font-weight: 400;
+    font-size: 16px;
 }
 
-.privacy_policy {
-    margin-top: 7rem;
+.sign-up button {
+     border: 1px solid #888888;
+     width: 70%;
+}
+
+@media (min-width: 754px) {
+    .sign-up button {
+        width: 50%;
+    }
+}
+
+.sign-up p {
+    font-family: 'Montserrat', Courier, monospace;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.sign-up  .privacy_policy {
+     margin-top: 7rem;
 }
 
 .line {
@@ -118,7 +142,7 @@
 }
 
 /*notification*/
-.notification h2, .notification h3 {
+.notification h2, .notification h3, .sign-up h1 {
     font-family: 'Montserrat', Courier, monospace;
     font-size: 24px;
     font-weight: 700;
