@@ -11,7 +11,7 @@ A platform that operates like a movie streaming platform but for short movies cr
 5. [Backend functionality](#Backend-Functionality)
 6. [Resources](#Resources)
 7. [Images](#images)
-8. [Contributors](#contributors)
+
 
 ## Introduction
 
@@ -74,6 +74,15 @@ Links on how we worked on the design process below:
 1. [UI FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=5PTYu4cXvGFMpLbQ-0)
 2. [Ux FILE](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=p6X0S0kmGhd4c4ds-0)
 3. [Mood Board](https://www.figma.com/file/h7SryNbMCMmXpWeLtKpca8/Untitled?node-id=0%3A1&t=wdaN5i7k86iNB1bt-1)
+
+
+## Images
+
+Images can be found on `frontend` folder but it advisable to use the "resources" given to guide you on which image to use.
+
+
+
+
 
 
 
