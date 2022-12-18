@@ -1,0 +1,198 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+/*Background color for pages*/
+.col_films-bg {
+    background-color: #0B022D;
+}
+
+.col_films-bg-light {
+    background-color: #342C50;
+}
+
+.notification {
+    background-color:  #F5F5F5;
+}
+
+.col_films-bg h1 {
+    font-family: 'Montserrat', Courier, monospace;
+}
+
+.col_films-started {
+    width: 75%;
+    background-color: #0D0C0C;
+}
+
+/* responsiveness for both tablet and  */
+@media (min-width: 401px) {
+    .col_films-started {
+        width: auto;
+    }
+}
+
+.col_films-bg p {
+    font-family: 'Inter', Courier, monospace;
+}
+
+/* .col_films-status-bar, .col_films-signUp, .signing {
+    margin: 0rem 0.8rem;
+} */
+
+.col_films-date {
+    text-align-last: left;
+    
+}
+
+.col_films-date p {
+    margin: revert;
+}
+
+.col_films-bar {
+    text-align-last: right;
+}
+
+/* .sign-up-hero {
+    margin: initial;
+} */
+
+/* Sign-up */
+.sign-up button, .sign-up label {
+    font-family: 'Crimson Pro', Courier, monospace;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.sign-up button {
+     border: 1px solid #888888;
+     width: 70%;
+}
+
+@media (min-width: 754px) {
+    .sign-up button {
+        width: 50%;
+    }
+}
+
+.sign-up p {
+    font-family: 'Montserrat', Courier, monospace;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.sign-up  .privacy_policy {
+     margin-top: 7rem;
+}
+
+.line {
+    border-bottom: 1px solid #868686;
+    width: 94%;
+    margin: auto;
+}
+
+/* Settings */
+.settings_head {
+    margin: auto;
+}
+
+.settings_head-links {
+    display: flex;
+    flex-direction: column;
+    margin-left: 3rem;
+    font-size: 20px;
+}
+
+.settings_head-links a {
+    font-weight: 400;
+    color: #D4D4D4;
+    line-height: 2.0;
+}
+
+/*subscription page*/
+.recently-added p {
+    /* margin: revert; */
+    align-self: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+/*Footer*/
+
+.footer {
+    box-shadow: 0px 20px 20px 0px #000000B2;
+    border: 1px solid #9D9D9D;
+}
+
+.footer-bg {
+    background-color: #0B022D;
+}
+
+
+
+/*notification*/
+.notification-pops h3 {
+    font-size: large;
+}
+@media (max-width: 426px) {
+    .notification-pops .hero  {
+        padding-left: 1.5rem;
+    }
+}
+
+/*notification*/
+.notification h2, .notification h3, .sign-up h1 {
+    font-family: 'Montserrat', Courier, monospace;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.notification h3 {
+    font-size: 16px;
+}
+
+.notification h4 {
+    font-family: 'Montserrat', Courier, monospace;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+/* settings style */
+.settings_head, .my-subscription_hero p {
+    font-family: 'Montserrat', Courier, monospace;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.settings a {
+    font-family: 'Montserrat', Courier, monospace;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 2.8rem;
+}
+
+/* my-subscription style */
+#text-1 {
+    background-image: url(../Images/user.png);
+}
+
+#text-2 {
+    background-image: url(../Images/user.png);
+}
+
+#text-3 {
+    background-image: url(../Images/🦆\ icon\ _mail_.png);
+}
+
+#text-4 {
+    background-image: url(../Images/Vector.jpg);
+}
+
+#text-1, #text-2, #text-3, #text-4 {
+    background-repeat: no-repeat;
+    height: 7vh;
+    background-position: left;
+    padding: 0px 3.5rem;
+    background-position: left 3% bottom 45%;
+}

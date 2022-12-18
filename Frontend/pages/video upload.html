@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/videoupload.css">
+    <!-- <link rel="stylesheet" href="../css/bootstrap.css"> -->
+    <title>Video upload</title>
+</head>
+<body>
+    <div class="container">
+        <div class="status-container">
+            <img class="cellular" src="../Images/Cellular.jpg" alt="">
+            <img class="wifi" src="../Images/Wifi.jpg" alt="">
+            <img class="battery" src="../Images/Battery.jpg" alt="">
+            <div class="time">8:30</div>
+            </div>
+            <div class="flex-row">
+                <h1 class="title">Upload video</h1>
+                <img class="close" src="../Images/Clear.png" alt="">
+            </div>
+            <div class="videouploadcontainer">
+             <img class="play-btn" src="../Images/ic_baseline-camera-alt.jpg" alt="">
+             <p class="action">Tap To Upload <br>&nbsp;&nbsp;A Video File</p>
+              <div class="time-limit pb-4">Max 15mins</div> 
+            </div>
+            <div>
+                <div class="picuploadcontainer">
+                    <img class="pic-btn" src="../Images/ic_baseline-camera-alt.jpg" alt="">
+                    <p class="action2">&nbsp;&nbsp;&nbsp;&nbsp;Tap To Upload <br>A Thumbnail Photo</p>   
+                   </div>  
+            </div>
+            <div>
+                <form action="">
+                    <label class="name" for="vtitle">Video title</label><br>
+                    <input class="video-title" type="text" id="video tile" value="" required><br>
+                    <label class="name-2" for="vcategory">Video category</label><br>
+                    <select class="video-category" name="vcategory" id="">
+                        <option value="fashion">Fashion</option>
+                        <option value="beauty">Beauty</option>
+                        <option value="cooking/recipies">Cooking/recipies</option>
+                        <option value="comedy">Comedy</option>
+                        <option value="entertainment">Entertainment</option>
+                        <option value="prank">Prank</option>
+                    </select>
+                    <label class="name-3" for="description">Description</label><br>
+                    <input class="video-description" type="text" id="description" value="" required><br>
+                    <a href="./uploading.html"><input class="btn" type="button" value="Upload"></a>
+                </form>
+            </div>
+            </div>
+</body>
+</html>
