@@ -17,7 +17,7 @@ A platform that operates like a movie streaming platform but for short movies cr
 
 The goal assigned to my team was to develop a streaming service specifically for university students.
 
-According to the [documentation](https://www.figma.com/file/YMpV4L3A6gMc1yDITmKcmu/Untitled?node-id=0%3A1&t=p6X0S0kmGhd4c4ds-0), we understand we are building a site where only students may publish movies with a maximum runtime of 15 minutes. Authenticated users can view as many videos as they like and engage in social activities.  
+According to the [documentation](https://docs.google.com/document/d/1uS8k2rB0fhb-o7pKotS22GX_Rr7NnTKgkPPpRhOjFRs/edit), we understand we are building a site where only students may publish movies with a maximum runtime of 15 minutes. Authenticated users can view as many videos as they like and engage in social activities.  
 
 But unauthenticated individuals (unregistered) can only explore a short selection of films before being asked to sign up (likes, comments, etc). Videos may also be bookmarked and downloaded by authenticated users.
 
