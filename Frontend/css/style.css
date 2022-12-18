@@ -173,10 +173,26 @@
 }
 
 /* my-subscription style */
-
-
 #text-1 {
-    background-image: url(../Images/userprofile.png);
+    background-image: url(../Images/user.png);
+}
+
+#text-2 {
+    background-image: url(../Images/user.png);
+}
+
+#text-3 {
+    background-image: url(../Images/🦆\ icon\ _mail_.png);
+}
+
+#text-4 {
+    background-image: url(../Images/Vector.jpg);
+}
+
+#text-1, #text-2, #text-3, #text-4 {
     background-repeat: no-repeat;
-    padding-right: 30px;
+    height: 7vh;
+    background-position: left;
+    padding: 0px 3.5rem;
+    background-position: left 3% bottom 45%;
 }

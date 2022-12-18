@@ -4,32 +4,30 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="videoupload.css">
+    <link rel="stylesheet" href="../css/videoupload.css">
+    <!-- <link rel="stylesheet" href="../css/bootstrap.css"> -->
     <title>Video upload</title>
 </head>
 <body>
     <div class="container">
         <div class="status-container">
-            <img class="cellular" src="Cellular.jpg" alt="">
-            <img class="wifi" src="Wifi.jpg" alt="">
-            <img class="battery" src="Battery.jpg" alt="">
-    
+            <img class="cellular" src="../Images/Cellular.jpg" alt="">
+            <img class="wifi" src="../Images/Wifi.jpg" alt="">
+            <img class="battery" src="../Images/Battery.jpg" alt="">
             <div class="time">8:30</div>
             </div>
             <div class="flex-row">
                 <h1 class="title">Upload video</h1>
-                <img class="close" src="Vector (4).jpg" alt="">
-
+                <img class="close" src="../Images/Clear.png" alt="">
             </div>
             <div class="videouploadcontainer">
-             <img class="play-btn" src="Play circle filled.jpg" alt="">
-             <p class="action">Tap To Upload <br>&nbsp;&nbsp;A Video File</p>   
+             <img class="play-btn" src="../Images/ic_baseline-camera-alt.jpg" alt="">
+             <p class="action">Tap To Upload <br>&nbsp;&nbsp;A Video File</p>
+              <div class="time-limit pb-4">Max 15mins</div> 
             </div>
-            <div class="time-limit">Max 15mins</div>
-
             <div>
                 <div class="picuploadcontainer">
-                    <img class="pic-btn" src="ic_baseline-camera-alt.jpg" alt="">
+                    <img class="pic-btn" src="../Images/ic_baseline-camera-alt.jpg" alt="">
                     <p class="action2">&nbsp;&nbsp;&nbsp;&nbsp;Tap To Upload <br>A Thumbnail Photo</p>   
                    </div>  
             </div>
@@ -48,9 +46,7 @@
                     </select>
                     <label class="name-3" for="description">Description</label><br>
                     <input class="video-description" type="text" id="description" value="" required><br>
-                    
-                    <input class="btn" type="button" value="Upload">
-                    
+                    <a href="./uploading.html"><input class="btn" type="button" value="Upload"></a>
                 </form>
             </div>
             </div>
