@@ -175,3 +175,8 @@
 /* my-subscription style */
 
 
+#text-1 {
+    background-image: url(../Images/userprofile.png);
+    background-repeat: no-repeat;
+    padding-right: 30px;
+}
