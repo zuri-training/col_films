@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+*{
+    color: aliceblue;
+}
+
+.container {
+    width: 55px;
+    position: absolute;
+    right: 1px;
+    bottom: 100px;
+    
+}
+.container img {
+    padding: 10px;
+}
+.container p{
+    padding-left: 6px;
+}
+.pimg{
+    justify-content: center;
+    padding-right: 15px;
+}
+.down-conta{
+    position: absolute;
+    bottom: 30px;
+    left: 10px;
+
+}
+.display-veri{
+    display: flex;
+    margin-bottom: 5px;
+    
+}
+.proimg {
+    padding-right: 8px;
+}
+.display-veri p{
+    padding-top: 15px;
+}
+.verified-img{
+    padding-top: 15px;
+    padding-left: 5px;
+}
+.writepost{
+    margin-top: 7px;
+}
+.arria{
+    display: flex;
+    align-self: center;
+    justify-content: end;
+}
+.arria p{
+    padding-right: 8px;
+    margin-top: 6px;
+}
+.arria img{
+    padding-bottom: 10px;
+    padding-right: 5px;
+}
