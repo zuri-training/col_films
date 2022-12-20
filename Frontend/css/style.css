@@ -172,8 +172,8 @@
     line-height: 2.8rem;
 }
 
-/* my-subscription style */
-#text-1 {
+/*sign-up style */
+.signing #text-1 {
     background-image: url(../Images/user.png);
 }
 
@@ -189,10 +189,39 @@
     background-image: url(../Images/Vector.jpg);
 }
 
-#text-1, #text-2, #text-3, #text-4 {
+.signing #text-1, .signing #text-2, .signing #text-3, .signing #text-4 {
     background-repeat: no-repeat;
     height: 7vh;
     background-position: left;
     padding: 0px 3.5rem;
     background-position: left 3% bottom 45%;
+}
+
+/* Login */
+.login #text-1 {
+    background-image: url(../Images/user.jpg);
+}
+
+.login #text-2 {
+    background-image: url(../Images/Vector.jpg);
+}
+
+.login #text-1, .login #text-2 {
+     background-repeat: no-repeat;
+    height: 7vh;
+    background-position: left;
+    /* padding: 0px 3.5rem; */
+    background-position: left 98% bottom 45%;
+}
+
+.login .text-hero {
+    display: flex;
+    justify-content: space-between;
+}
+
+.login .button_login button {
+    border-radius: 2rem;
+    padding: 0.5rem 6.8rem;
+    background-color: #FF206E;
+    border: 1px #0D0C0C;
 }
