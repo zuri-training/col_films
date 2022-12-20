@@ -85,3 +85,7 @@ letter-spacing: 0;
     font-weight: bold;
     color: white;
 }
+
+a {
+    text-decoration: none;
+}

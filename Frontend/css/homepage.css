@@ -68,12 +68,12 @@ body{
     width: 100%;
 }
 
-.display-veri{
+.display-veri {
     display: flex;
     justify-content: center;
-    position: absolute;
-    top: 155px;
-    left: 10px;
+    position: relative;
+    top: -18.5rem;
+    left: -5.5rem;
 }
 .proimg {
     padding-right: 8px;
@@ -106,13 +106,14 @@ body{
 .comments {
     padding: 5px 10px 15px 10px;
 }
-.second-img{
-    display: flex;
-    position: absolute;
-    left: 15px;
-    bottom: 2px;
 
+    .second-img {
+    display: flex;
+    position: relative;
+    left: 0.8rem;
+    bottom: 6rem;
 }
+
 .padd-josh {
     padding-left: 5px;
     padding-top: 10px;

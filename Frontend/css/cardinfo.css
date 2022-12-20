@@ -17,6 +17,9 @@
 
 }
 
+a {
+    text-decoration: none;
+}
 
 .status-container{
   min-width: 360px;
